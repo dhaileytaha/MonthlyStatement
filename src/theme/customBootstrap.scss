@@ -1,0 +1,8 @@
+// Override default variables before the import
+$primary: #e53866;
+$enable-shadows: true;
+$enable-gradients: true;
+$border-radius: 4px;
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
